@@ -1,7 +1,8 @@
 # arpis
-Arduino - Raspberry pi Reliable Serial Data Exchange
+Arduino - PC Reliable Serial Data Exchange
 
 <br />
+
 module | description
 --- | ---
 arduino/ | headers for implementing Serial send-receive on arduino side
