@@ -2,7 +2,7 @@
 #define _SERIAL_LINK_H
 
 #include "serial_comm_pi.h"
-#include "../lib/include/comm_types.h"
+#include "comm_types.h"
 #include <cstdarg>
 #include <thread>
 #include <queue>
